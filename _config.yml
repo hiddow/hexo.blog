@@ -73,3 +73,8 @@ deploy:
 
 #设置头像
 avatar: https://upload.wikimedia.org/wikipedia/commons/6/6b/SelbstPortrait_VG2.jpg
+
+#多说
+duoshuo_shortname: hiddow
+#swift搜索
+swiftype_key: PoW8qx7JdeXsbgiJzxFA
