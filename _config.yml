@@ -70,3 +70,6 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/hiddow/hiddow.github.io.git
+
+#设置头像
+avatar: https://upload.wikimedia.org/wikipedia/commons/6/6b/SelbstPortrait_VG2.jpg
