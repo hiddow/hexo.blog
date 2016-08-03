@@ -6,7 +6,7 @@ title: Android 调用PowerManager 实现延时锁屏
   首先我们要清楚，在手机锁屏的时候，android 系统为了达到省电的和减少CPU的消耗，在锁屏的一段时间后进入休眠的状态，这时候Android 的CPU会保持在一个功耗较低状态。那么如何在Android 休眠的状态执行消息的接收并且点亮屏幕呢？
   直接上代码：
   
-```android
+```java
     WakeLock wakeLock = null;  
         //获取电源锁，保持该服务在屏幕熄灭时仍然获取CPU时，保持运行  
         private void acquireWakeLock()  

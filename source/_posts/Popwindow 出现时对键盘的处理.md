@@ -3,7 +3,7 @@ title: Popwindow 出现时对键盘的处理
 ---
 
 有的时候弹出Popwindow 的时候，Android 键盘不会自动隐藏，导致界面不是理想情况，并且即使键盘消失了，Popwindow 的布局也会被打乱，大神写了一个针对Popwindow 有效的显示和隐藏键盘的工具类:
-```android
+```java
 /**
  * 隐藏/开启keyboard
  *

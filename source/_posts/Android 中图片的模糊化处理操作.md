@@ -4,7 +4,7 @@ title: Android 中图片的模糊化处理操作
 
 项目当中有时候会用到动态处理图片，使图片模糊化的功能，实现如下(拿来就直接使用):
 
-```android
+```java
 public class ImageUtils {
 
     public static Drawable createBlurredImageFromBitmap(Bitmap bitmap,Context context,int inSampleSize) {
