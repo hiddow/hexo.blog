@@ -77,4 +77,8 @@ avatar: https://upload.wikimedia.org/wikipedia/commons/6/6b/SelbstPortrait_VG2.j
 #多说
 duoshuo_shortname: hiddow
 #swift搜索
-swiftype_key: PoW8qx7JdeXsbgiJzxFA
+#swiftype_key: PoW8qx7JdeXsbgiJzxFA
+#搜索引擎
+search:
+  path: search.xml
+  field: post
