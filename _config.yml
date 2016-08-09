@@ -82,3 +82,5 @@ duoshuo_shortname: hiddow
 search:
   path: search.xml
   field: post
+#Google Analytics
+google_analytics: UA-59567541-1
